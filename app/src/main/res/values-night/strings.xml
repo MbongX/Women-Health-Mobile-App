@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button">Button</string>
+    <string name="the_logo_of_the_women_app">The logo of the women app</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an Account?</string>
+    <string name="signup">SignUp</string>
+    <string name="registration">Registration</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="email">Email</string>
+    <string name="cell_number">Cell Number</string>
+    <string name="username">Username</string>
+    <string name="age">Age</string>
+    <string name="submit">Submit</string>
+    <string name="passwordRules">*\t Password should more than 8 characters \n*\t Password can contain a lowercase,uppercase characters \n*\t Password can contain numerics</string>
+    <string name="reg_password">Password</string>
+</resources>
